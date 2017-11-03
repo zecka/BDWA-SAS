@@ -12,5 +12,4 @@ L'ensemble des fichiers de ce dépôt est placé sous une licence Creative Commo
 
 ## Étudiants
 
-- [T. Izzo](https://github.com/5ika)
 - [J. Mendes](https://github.com/JoMendes)
