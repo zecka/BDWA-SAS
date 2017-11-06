@@ -15,4 +15,4 @@ L'ensemble des fichiers de ce dépôt est placé sous une licence Creative Commo
 - [J. Mendes](https://github.com/JoMendes)
 - [K. Tschanz](https://github.com/KarenCrea)
 - [Victor Audetat](https://github.com/victorvkooz)
-- [Mathieu Leitner] (https://github.com/mathieuleitner)
+- [Mathieu Leitner](https://github.com/mathieuleitner)
