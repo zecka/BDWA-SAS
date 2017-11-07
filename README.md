@@ -17,3 +17,4 @@ L'ensemble des fichiers de ce dépôt est placé sous une licence Creative Commo
 - [Victor Audetat](https://github.com/victorvkooz)
 - [R. Ferrari](https://github.com/zeckart)
 - [Mathieu Leitner](https://github.com/mathieuleitner)
+- [Hasinah Tabet](http://github.com/Hasinah13)
