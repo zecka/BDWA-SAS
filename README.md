@@ -18,3 +18,4 @@ L'ensemble des fichiers de ce dépôt est placé sous une licence Creative Commo
 - [R. Ferrari](https://github.com/zeckart)
 - [Mathieu Leitner](https://github.com/mathieuleitner)
 - [Hasinah Tabet](http://github.com/Hasinah13)
+- [L. Conzelmann](https://github.com/Maraen)
