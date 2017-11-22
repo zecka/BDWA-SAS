@@ -16,6 +16,7 @@ Ces liens permettent d'approfondir ce qui a été vu en cours. C'est également 
 ### Bash
 
 - Les principales commandes Bash : https://fr.wikibooks.org/wiki/Programmation_Bash/Commandes_shell
+- Maîtriser Bash en une page : https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md
 
 ### git
 
